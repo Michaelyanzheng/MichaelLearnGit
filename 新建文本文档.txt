@@ -1,0 +1,4 @@
+Git is a version control system
+Git is free software
+
+Unix的哲学是“没有消息就是好消息”
